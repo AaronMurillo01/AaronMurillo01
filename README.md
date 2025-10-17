@@ -1,5 +1,6 @@
 # Aaron_Murillo01
-<!-- 3D Contribution Graph -->
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 <h1 align="center">Hi, I'm Aaron Murillo 👋</h1> <p align="center"> Software Engineer & Full‑Stack Developer<br> Albuquerque, NM, USA </p> <p align="center"> <a href="https://www.aaronmurillo.dev">Portfolio</a> · <a href="https://github.com/AaronMurillo01">GitHub</a> · <a href="mailto:murillo.aaron102@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/aaron-murillo/">LinkedIn</a> </p>
 Professional Statement
@@ -38,11 +39,11 @@ Featured Projects
 
 Zenith Dashboard — Modern SaaS admin dashboard with AI assistant and real‑time collaboration.
 Repo: https://github.com/AaronMurillo01/zenith-dashboard
- · Live: https://zenith.example.com
+· Live: https://zenith.example.com
 
 DNA Photography — Lightning‑fast portfolio site for a local photography business.
 Repo: https://github.com/AaronMurillo01/dna-photography
- · Live: https://www.instagram.com/dnaphotography._/
+· Live: https://www.instagram.com/dnaphotography._/
 
 More projects at https://www.aaronmurillo.dev/projects
 
